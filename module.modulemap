@@ -1,0 +1,5 @@
+module CEvent [system] {
+    header "shim.h"
+    link "iconv"
+    export *
+}
